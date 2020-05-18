@@ -48,8 +48,8 @@ body > #bloc-2-services >.bloc-md > .row > .textcenter{
     font-size:40px;
 }
 .text-center > .titre1{
-    font-size:25px;
-    width:670px;
+    font-size:22px;
+    color: black;
 }
 
 .bloc-lg {
@@ -1047,4 +1047,21 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+.titre2 {
+    font-size:20px;
+    font-style: italic;
+    color:black;
+}
+
+.nom {
+    font-size:15px;
+    font-style:normal;
+}
+
+.titre3 {
+    font-size:22px;
+    color:black;
 }
