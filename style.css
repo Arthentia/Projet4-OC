@@ -99,7 +99,7 @@ body > #bloc-2-services >.bloc-md > .row > .textcenter{
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img_optimized/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -822,11 +822,11 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img_optimized/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img_optimized/la-chouette-agence-banniere.jpg");
 }
 
 .bg-presentation {
