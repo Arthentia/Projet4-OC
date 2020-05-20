@@ -847,6 +847,10 @@ h4 {
     }
 }
 
+.nav{
+    display: none;
+}
+
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
         max-width: 80%
@@ -854,6 +858,7 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
+  
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -896,6 +901,7 @@ h4 {
         padding-right: constant(safe-area-inset-right);
     }
 }
+
 
 @media (max-width: 767px) {
     .page-container {
@@ -1046,6 +1052,9 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+     .nav{
+        display: block;
     }
 }
 
