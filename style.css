@@ -663,12 +663,11 @@ a {
     color: #575757!important;
 }
 
-.container {
-    max-width: 1000px;
-}
+
 
 .hero-bloc-text {
     font-size: 38px;
+    text-align: center;
 }
 
 .hero-bloc-text-sub {
@@ -1084,3 +1083,7 @@ h4 {
     font-size:22px;
     color:black;
 }
+
+
+
+
